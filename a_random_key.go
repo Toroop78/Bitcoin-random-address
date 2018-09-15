@@ -18,7 +18,7 @@ func main() {
 
 	privkey, public := btcec.PrivKeyFromBytes(btcec.S256(), generateAddress())
 	wif, _ := btcutil.NewWIF(privkey, &chaincfg.MainNetParams, true)
-        wifu, _ := btcutil.NewWIF(privkey, &chaincfg.MainNetParams, false)
+       wifu, _ := btcutil.NewWIF(privkey, &chaincfg.MainNetParams, false)
 
 	caddr, _ := btcutil.NewAddressPubKey(public.SerializeCompressed(), &chaincfg.MainNetParams)
 	uaddr, _ := btcutil.NewAddressPubKey(public.SerializeUncompressed(), &chaincfg.MainNetParams)
