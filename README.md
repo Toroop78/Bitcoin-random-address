@@ -11,15 +11,6 @@ $ go get github.com/btcsuite/btcutil
 ```bash
 $ go run a_random_key.go
 ```
-```bash
-$ go run b_random_key.go
-```
-```bash
-$ go run c_random_key.go
-```
-```bash
-$ go run d_random_key.go
-```
 ### Example Output
 ```
              Public                                  Private
