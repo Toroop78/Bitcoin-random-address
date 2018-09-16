@@ -26,5 +26,3 @@ $ go run a_random_key.go
 1MDAgY17fxtEVNhKeCmCZgcDdacDMfXF3q 5KYaPf3HUdZtSe8NtDqYkdaynJiC63WZZiYhMZsbxLmzSHT99Du
 1JHGz92zovWZDSU5t6ujbnJfzhvAPBYmR7 L1EeXLVf2yUaK9EAdt8uaRUym5N4vNyR53ESAqwSXcYFQTsxwww9
 ```
-
-### Donate: 17zcGvs56YGLMqC5Pj2b5D9kUH4ogXiEH1
